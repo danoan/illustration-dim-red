@@ -26,7 +26,7 @@ Usage: sh paris-data-analysis.sh [Paris-Neighborhood]
 
 Example: sh paris-data-analysis.sh Élysée
 
-![alt](Élysée-plane-fitting.png) "Élysée neighborhood"
+![alt](Élysée-plane-fitting.png "Élysée neighborhood" )
 
 ### List of Neighborhoods:
 
