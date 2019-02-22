@@ -7,8 +7,11 @@ This simple project creates a plot from insideairbnb.com data for the city of Pa
 ## Requirements
 
 csvkit
+
 python > 3.0
+
 numpy > 1.16
+
 gnuplot 
 
 ## Collecting the data
@@ -20,29 +23,49 @@ The scripts in this project were written for a very specific dataset, namely, in
 The script paris-data-analysis.sh will collect the columns of interest for each year dataset, compute its first two principal components and create a plot with plane fitting and another with no plane fitting.
 
 Usage: sh paris-data-analysis.sh [Paris-Neighborhood]
+
 Example: sh paris-data-analysis.sh Élysée
 
 List of Neighborhoods:
 
 Batignolles-Monceau
+
 Bourse
+
 Buttes-Chaumont
+
 Buttes-Montmartre
+
 Entrepôt
+
 Élysée
+
 Gobelins
+
 Hôtel-de-Ville
+
 Louvre
+
 Luxembourg
+
 Ménilmontant
+
 Observatoire
+
 Opéra
+
 Palais-Bourbon
+
 Panthéon
+
 Passy
+
 Popincourt
+
 Reuilly
+
 Temple
+
 Vaugirard
 
 
