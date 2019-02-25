@@ -22,9 +22,17 @@ The scripts in this project were written for a very specific dataset, namely, in
 
 The script paris-data-analysis.sh will collect the columns of interest for each year dataset, compute its first two principal components and create a plot with plane fitting and another with no plane fitting.
 
-Usage: sh paris-data-analysis.sh [Paris-Neighborhood]
+Usage: 
 
-Example: sh paris-data-analysis.sh Élysée
+```
+sh paris-data-analysis.sh [Paris-Neighborhood]
+```
+
+Example: 
+
+```
+sh paris-data-analysis.sh Élysée
+```
 
 ![alt](Élysée-plane-fitting.png "Élysée neighborhood" )
 
