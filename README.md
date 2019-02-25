@@ -1,4 +1,4 @@
-# Simple illustration of reduction of dimensionality
+# Simple illustration of dimensionality reduction
 
 The goal of this project is to illustrate dimensionality reduction in data analysis. It is a skeleton and it is not generalized. The user should modify the scripts in order to evaluate it for different data.
 
@@ -73,4 +73,4 @@ Vaugirard
 
 ## Discussion
 
-In this example, the plane could be used to approximate (predict) observations by storing fewer information than the original data (instead of 3n values, we need to store only 2n). The compression ratio becomes more important as we handle data with higher dimensions, the common example being images. A classical application is face recognition.
+In this example, the plane could be used to approximate (predict) observations by storing fewer information than the original data (instead of 3n values, we need to store only 2n). The compression ratio becomes more important as we handle data with higher dimensions, the common example being images. A classical application is [face recognition](https://en.wikipedia.org/wiki/Eigenface).
